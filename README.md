@@ -7,6 +7,9 @@ Peek-a-Sky is a production-ready React application that combines real-time weath
 Instead of simply displaying weather information, Peek-a-Sky analyzes the forecast and generates practical recommendations for clothing, travel, outdoor activities, health, and safety.
 
 ---
+## Project Brief
+
+Peek-a-Sky is an AI-powered weather assistant that helps users make better daily decisions instead of simply displaying weather data. Traditional weather apps require users to interpret forecasts themselves, while Peek-a-Sky combines real-time weather information from WeatherAPI with Google's Gemini AI to generate personalized recommendations for clothing, travel, outdoor activities, health, and safety. The application is designed for students, commuters, travelers, and anyone who checks the weather before leaving home. I chose this idea because weather is something people use every day, and integrating AI in a meaningful way demonstrates how large language models can provide practical, context-aware assistance beyond a basic chatbot.
 
 # Live Demo
 
