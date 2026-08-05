@@ -17,21 +17,31 @@ function SearchBar({ onSearch, onCurrentLocation }) {
 
   return (
     <div className="search-container">
-      <input
-        type="text"
-        placeholder="Enter city name..."
-        value={city}
-        onChange={(event) => setCity(event.target.value)}
-        onKeyDown={handleKeyDown}
-      />
+    <input
+  id="city"
+  type="text"
+  placeholder="Enter city name..."
+  aria-label="Enter city name"
+  autoComplete="off"
+  value={city}
+  onChange={(event) => setCity(event.target.value)}
+  onKeyDown={handleKeyDown}
+/>
 
-      <button onClick={handleSearch}>
-        🔍 Search
-      </button>
-
-      <button onClick={onCurrentLocation}>
-        📍 Current Location
-      </button>
+      <button
+  type="button"
+  aria-label="Search weather"
+  onClick={handleSearch}
+>
+  🔍 Search
+</button>
+<button
+  type="button"
+  aria-label="Use current location"
+  onClick={onCurrentLocation}
+>
+  📍 Current Location
+</button>
     </div>
   );
 }
