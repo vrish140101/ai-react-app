@@ -226,3 +226,7 @@ Lighthouse Results
 # Author
 
 Vaishnavi Biswagar
+<img width="1915" height="907" alt="Screenshot 2026-08-05 221753" src="https://github.com/user-attachments/assets/b56248e9-babf-4232-bbb2-15c84c4e5d45" />
+<img width="1855" height="982" alt="Screenshot 2026-08-05 221907" src="https://github.com/user-attachments/assets/e6f7c8b2-3749-451c-a55d-25e3c7f3f9cb" />
+
+
